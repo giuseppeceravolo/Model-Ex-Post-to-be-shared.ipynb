@@ -1,0 +1,2 @@
+# A Supervised ML Model to forecast Real Estate Auctions Results
+This Python Notebook gathers the steps taken to come up with a supervised classification model able to forecast the result of real estate auctions in Italy given both exogenous features (e.g. the minimum bid price) and, more importantly, endogenous features (e.g. the number of online visits that a listing gets within 7 days of pubblication on real estate portals).
